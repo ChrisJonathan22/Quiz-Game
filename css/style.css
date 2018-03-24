@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(236, 119, 10);
+}
+
+h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+#container {
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+    height: 300px;
+    margin: auto;
+}
+
+
+#form-container {
+  width: 250px;
+  height: 250px;
+   margin: auto;
+   padding-top: 10px;
+}
+
+#after_submit {
+    visibility: hidden;
+}
